@@ -1,0 +1,17 @@
+/target/
+**/target
+
+**/.classpath
+.classpath
+.factorypath
+.project
+.settings
+
+.vscode
+
+/build/
+/.apt-generated/
+
+.tern-project
+/bin/
+/node_modules/
