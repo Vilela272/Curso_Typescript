@@ -25,7 +25,7 @@
 2. Install Node.js
 3. Install Yarn or NPM
 
-### Install API (back-end)
+### Install Project (back-end)
 
 ```bash
 # Clone the repository
@@ -40,12 +40,12 @@ $ npm install
 # Run live-server
 $ npm install --save live-server 
 
-# adicionar no script do package.json o trecho 
+# add the excerpt to the package.json script 
 $ "scripts": {  
         ...,  
         "start": "live-server"  
-    } para utilizar o restart automático do servidor,  
-    e utilizar o comando 'npm start' para inicializar o servidor
+    } to use automatic server restart,
+    and use the 'npm start' command to start the server
 
 # Start the server
 $ npm start
