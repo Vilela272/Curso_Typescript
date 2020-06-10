@@ -20,19 +20,6 @@
 - React Router
 - React Styled Components
 ---
-### :iphone: Mobile
-
-- TypeScript
-- ReactJS
-- React Native
-- Axios
-- Expo
-- Expo Location
-- Expo Mail Composer
-- React DOM
-- React Native Maps
-- React Native Location
----
 ## :wave: How to Use
 1. Clone the repository
 2. Install Node.js
@@ -50,7 +37,7 @@ $ cd Curso_Typescript
 # Install the dependencies
 $ npm install
 
-# Run the migrates
+# Run live-server
 $ npm install --save live-server 
 
 # adicionar no script do package.json o trecho 
