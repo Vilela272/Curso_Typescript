@@ -1,6 +1,6 @@
-## :rocket: Stack
+## :computer: Stack
 
-#### :computer: Back-end
+#### :japanese_ogre: Back-end
 - TypeScript
 - NodeJS
 - Express
